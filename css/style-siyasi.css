@@ -59,3 +59,8 @@ a:hover{
     cursor: pointer;
     background-color: rgb(59, 105, 190);
 }
+h1 {
+    text-align: center;
+    color: rgb(71, 98, 147);
+    margin-top: 15px;
+}
